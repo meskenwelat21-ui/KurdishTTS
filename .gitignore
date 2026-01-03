@@ -1,0 +1,9 @@
+# Ignore the unpacked App folder, we only want to distribute the installers/zips
+App/
+.DS_Store
+Thumbs.db
+
+# Ignore large binary files (upload these to GitHub Releases)
+*.exe
+*.pkg
+*.zip
