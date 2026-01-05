@@ -3,6 +3,8 @@
 **Çevrimdışı Kürtçe (Kurmancî) Metin Okuma Uygulaması**
 
 Modern, karanlık temaya sahip bir masaüstü uygulaması. Piper ONNX modelleri kullanarak Kürtçe metni doğal konuşmaya dönüştürür.
+![Preview](screen.png)
+
 
 ## Özellikler ✨
 
@@ -32,6 +34,8 @@ Modern, karanlık temaya sahip bir masaüstü uygulaması. Piper ONNX modelleri 
 **Yöntem 2: ZIP (Portable)**
 - **Apple Silicon (M1/M2/M3):** `MEDKurdi_Mac_Arm64.zip` dosyasını indirin ve çıkarın.
 - **Intel Mac:** `MEDKurdi_Mac_Intel.zip` dosyasını indirin ve çıkarın.
+
+- ![Preview](blb.png)
 
 *Not: macOS'ta uygulamayı ilk kez açarken "Geliştirici doğrulanamadı" uyarısı alırsanız, Sistem Ayarları > Gizlilik ve Güvenlik bölümünden izin vermeniz gerekebilir.*
 
