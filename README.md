@@ -3,7 +3,7 @@
 **Çevrimdışı Kürtçe (Kurmancî) Metin Okuma Uygulaması**
 
 Modern, karanlık temaya sahip bir masaüstü uygulaması. Piper ONNX modelleri kullanarak Kürtçe metni doğal konuşmaya dönüştürür.
-![Preview](screen.png)
+![Preview](medtts.png)
 
 
 ## Özellikler ✨
