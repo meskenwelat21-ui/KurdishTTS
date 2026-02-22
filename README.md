@@ -1,54 +1,54 @@
 # MED Kurdî TTS - Xwendina Kurdî
 
-**Çevrimdışı Kürtçe (Kurmancî) Metin Okuma Uygulaması**
+**Sepana xwendina nivîsê ya Kurdî (Kurmancî) ya bê internet**
 
-Modern, karanlık temaya sahip bir masaüstü uygulaması. Piper ONNX modelleri kullanarak Kürtçe metni doğal konuşmaya dönüştürür.
+Ev sepaneke sermaseyê ya nûjen e bi temaya tarî. Bi modelên Piper ONNX nivîsa Kurdî dike dengê xwezayî.
 ![Preview](medtts.png)
 
 
-## Özellikler ✨
+## Taybetmendî ✨
 
-- 🎙️ **Kurdî TTS Sentez** - Piper ONNX modelleri ile yüksek kaliteli ses sentezi (Reşad, Roj, Welat)
-- 🌙 **Modern Tema** - Şık, koyu tema ile göz yormayan arayüz
-- 📁 **Dinamik Model Yönetimi** - Models klasöründen otomatik model taraması
-- 🔄 **Kolay Model Ekleme** - Kullanıcılar yeni modelleri kolayca ekleyebilir
-- ⚙️ **Gelişmiş Ses Kontrolü** - Hız, tonlama ve uzunluk ayarları
-- 💾 **Çoklu Format Desteği** - WAV ve MP3 olarak ses dosyası dışa aktarma
-- 📋 **Kürtçe Metin İşleme** - Kısaltma genişletme ve sayı-metne dönüştürme
+- 🎙️ **Senteza Kurdî TTS** - Senteza dengê bi kalîteya bilind bi modelên Piper ONNX (Reşad, Roj, Welat)
+- 🌙 **Tema ya Nûjen** - Rûkarê şık û tarî ku çavan nayêwestîne
+- 📁 **Rêveberiya Modela Dînamîk** - Lêgerîna otomatîk a modelan ji peldanka Models
+- 🔄 **Zêdekirina Modelê bi Hêsanî** - Bikarhêner dikarin modelên nû bi hêsanî zêde bikin
+- ⚙️ **Kontrola Pêşketî ya Dengê** - Mîhengên lez, ton û dirêjahî
+- 💾 **Piştgiriya Gelek Formatan** - Derxistina pelên dengî wekî WAV û MP3
+- 📋 **Pêvajoya Nivîsa Kurdî** - Firehkirina kurtkirinan û veguherandina jimarê bo nivîsê
 
-## İndirme ve Kurulum 🚀
+## Daxistin û Sazkirin 🚀
 
 ### Windows 🪟
 
-**Yöntem 1: Installer (Önerilen)**
-1. `MED_Kurdi_v1_Setup.exe` dosyasını indirin.
-2. Kurulum sihirbazını çalıştırın.
-3. Başlat Menüsünden uygulamayı açın.
+**Rêbaz 1: Installer (Pêşniyarkirî)**
+1. Pela `MED_Kurdi_v1_Setup.exe` daxînin.
+2. Sêrbaza sazkirinê bimeşînin.
+3. Sepanê ji Menuya Destpêkê vekin.
 
 ### macOS 🍎
 
-**Yöntem 1: Installer (PKG)**
-1. `MEDKurdi_Installer_Universal.pkg` dosyasını indirin.
-2. Yönergeleri izleyerek kurulumu tamamlayın.
+**Rêbaz 1: Installer (PKG)**
+1. Pela `MEDKurdi_Installer_Universal.pkg` daxînin.
+2. Bi şopandina rêberan sazkirinê temam bikin.
 
-**Yöntem 2: ZIP (Portable)**
-- **Apple Silicon (M1/M2/M3):** `MEDKurdi_Mac_Arm64.zip` dosyasını indirin ve çıkarın.
-- **Intel Mac:** `MEDKurdi_Mac_Intel.zip` dosyasını indirin ve çıkarın.
+**Rêbaz 2: ZIP (Portable)**
+- **Apple Silicon (M1/M2/M3):** Pela `MEDKurdi_Mac_Arm64.zip` daxînin û derxînin.
+- **Intel Mac:** Pela `MEDKurdi_Mac_Intel.zip` daxînin û derxînin.
 
 - ![Preview](blb.png)
 
-*Not: macOS'ta uygulamayı ilk kez açarken "Geliştirici doğrulanamadı" uyarısı alırsanız, Sistem Ayarları > Gizlilik ve Güvenlik bölümünden izin vermeniz gerekebilir.*
+*Têbînî: Ger hûn di macOS de dema yekem de sepanê veke û hişyariya "Pêşdebir nayê piştrastkirin" bibînin, dibe ku pêdivî be ku ji Beşê Mîhengên Pergalê > Taybetî û Ewlehî destûr bidin.*
 
-## Sistem Gereksinimleri
+## Pêdiviyên Pergalê
 
 - **Windows:** Windows 10/11 (64-bit)
-- **macOS:** macOS 11.0 (Big Sur) veya üzeri
-- **RAM:** Minimum 4GB (8GB önerilir)
-- **Disk Alanı:** ~500MB
+- **macOS:** macOS 11.0 (Big Sur) an jî bilindtir
+- **RAM:** Kêmînin 4GB (8GB tê pêşniyarkirin)
+- **Cihê Dîskê:** ~500MB
 
-## Lisans
+## Lîsans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
+Ev proje li bin Lîsansa MIT hatiye lîsanskirin. Ji bo hûrguliyan pelê `LICENSE` bibînin.
 
 ---
 
